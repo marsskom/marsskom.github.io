@@ -5,7 +5,6 @@
     <a href="https://www.linkedin.com/in/prakapas/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <img src="https://komarev.com/ghpvc/?username=marsskom&style=flat-square&label=Counter&color=brightgreen" alt="Profile Counter"/>
     <a href="https://prakapas.notion.site/Andrii-Prak-pas-6082e91e18724dd995562b2b8733ed80">
       <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge"/>
     </a>
@@ -28,7 +27,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
@@ -69,7 +68,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marsskom&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
